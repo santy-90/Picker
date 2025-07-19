@@ -7,7 +7,7 @@ pkg install git
 git clone
 https://github.com/santy-90/Picker
 
-cd Picker
+cd I_Picker
 
 python3 Ip-Picker.py
 
